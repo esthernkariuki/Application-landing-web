@@ -566,6 +566,7 @@ text-decoration: underline; }
  }
  .footer-bottom p{
     color: white;
+    gap:100px;
  }
  
  .footer-bottom a:hover {
