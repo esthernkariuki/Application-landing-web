@@ -32,11 +32,17 @@ color:black;
     width:9%;
 
  }
+ .days-number,h3{
+   padding-left: 200px;
+ }
  .improve.charge{
    display: flex;
 
 
  }
+ .buttons-improve-charge{
+   padding-top: 150px;}
+ 
  .left-improve-charge{
    font-size: 36px;
    padding: 100px 1000px 100px 100px;
@@ -64,20 +70,25 @@ text-decoration: underline;
 }
 .right-improve-charge{
   float:right;
-  margin-top: -400px;
-  margin-right: 300px;
+  margin-top: -800px;
+  margin-right: 200px;
   font-size: 22px;
   
 
 }
+
+.techinical,h2{
+padding: 50px;
+}
 #happy-man{
    height: 50px;
    width:50px;
+  
 
 }
 #need-amount-p{
    padding-left: 90px;
-   margin-top: -50px;
+   margin-top: -10px;
    background-color: aqua;
 }
 .days-number{
@@ -89,11 +100,12 @@ text-decoration: underline;
    margin-top: -30px;
    max-width:1200px ;
    width:100%;
+  padding:20px 0px 20px 200px;
 }
 .uploading{
    background-color: white;
-   margin-top: -100px;
-   padding-left: 90px;
+   margin-top: -40px;
+   padding-left: 50px;
 }
 .software-growth,h2{
 text-align: center;
@@ -117,12 +129,12 @@ font-size: 30px;
    gap:100px;
 }
 .product-worked-on{
-  padding: 100px 100px;
+  padding: 100px ;
 background-color: wheat;
 }
 .product-worked-on h1{
    padding-left: 600px;
-   margin-top: -50px;
+   margin-top: -70px;
    font-size: 40px;
 }
 #product{
@@ -135,11 +147,9 @@ background-color: wheat;
 .numbers-users{
    padding:100px 1000px 100px 100px;
    font-size: 30px;
-  
-   
 
 }
-.diti.io{
+#diti.io{
    color: red;
    text-decoration: underline;
 }
@@ -156,17 +166,7 @@ background-color: wheat;
    width: 30%;
    border-radius: 90px;
    
-}
-.left-create-account{
-    padding-left:1200px;
-    padding-right: 10px;
-    padding-bottom: 90px;
-    padding-top: -1200px
-
-
-}
-
-  
+} 
 .know-more{
    width: 50px;
    height: 50px;
@@ -184,7 +184,7 @@ background-color: wheat;
     text-decoration: underline;
 }
 #clients-words{
-    padding-top: 100px;
+    padding-top: 150px;
     padding-left: 700px;
     font-size: 36px;
 }
@@ -198,7 +198,7 @@ background-color: wheat;
 padding-left: 700px;
 margin-top: -400px;
 padding-bottom: 100px;
-transform: rotate(62);
+
 
 }
 .tim-david,p{
@@ -210,7 +210,7 @@ padding-top: 50px;
 }
 .help-customers{
    font-size: 30px;
-  
+  display:flex;
 }
 .fa-solid.fa-face-smile{
     color:red;
@@ -252,13 +252,15 @@ padding-left: 300px;}
 .mobile-app{
    padding:90px 1300px 50px 50px ;
 }
+.software-growth{
+   padding:50px;
+}
 .logos{
     display:flex;
     gap:350px;
+    padding:50px;
 
 }
-
-
 a{
    display:block;
    text-decoration: none;
@@ -268,20 +270,26 @@ a{
 }
 .footer{
    display: flex;
-   gap:100px;
+   gap:250px;
    background-color: black;
    color: white;
    height: 80px;
    padding-top:50px;
 
 }
+.buttons-users{
+  padding: 50px; 
+}
 .download{
 display:flex;
-gap:800px;
+gap:400px;
 padding: 90px;
 font-size: 30px;
 
 
+}
+.download-app{
+   padding-left: 100px;
 }
 #apple-button{
    height:70px;
@@ -303,6 +311,8 @@ font-size: 30px;
     height:70px;
     width:70px;
 } 
+
+
     
 
 
